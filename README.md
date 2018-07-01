@@ -1,5 +1,5 @@
 # Xpinpoint
-基于pinpoint1.5.3的stable Xpinpoint
+基于pinpoint1.5.3打造的stable Xpinpoint
 
 
 详细了解请移步
